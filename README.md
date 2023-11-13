@@ -1,1 +1,1 @@
-# QuickSell--Assignment-Kanban-board
+# QuickSell-Assignment-Kanban-board
